@@ -8,4 +8,4 @@ Documentation for collecting HTTP logs from webservers
 
 ## Training the HTTP Module
 
-[Sample python script to generate most common english words list]<https://github.com/CyberSift/HTTP-Module/blob/master/eng_search_words.py>
+(Sample python script to generate most common english words list)<https://github.com/CyberSift/HTTP-Module/blob/master/eng_search_words.py>
